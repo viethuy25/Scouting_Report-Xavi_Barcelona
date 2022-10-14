@@ -1,0 +1,27 @@
+,,,,,Touches,Touches,Touches,Touches,Touches,Touches,Touches,Dribbles,Dribbles,Dribbles,Dribbles,Dribbles,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Carries,Receiving,Receiving,Receiving,Receiving,,#NAME?
+Player,Nation,Pos,Age,90s,Touches,Touches_Def Pen,Touches_Def 3rd,Touches_Mid 3rd,Touches_Att 3rd,Touches_Att Pen,Touches_Live,Dribbles_Succ,Dribbles_Att,Dribbles_Succ%,Dribbles_#Player_Past,Dribbles_Megs,Carries,Carries_TotDist,Carries_PrgDist,Carries_Prog,Carries_Final_Third,Carries_Penalty_Box,Carries_Fail,Carries_Dispose,Receiving_Targ,Receiving_Rec,Receiving_Rec%,Receiving_Prog,Matches,-9999
+Marc-André ter Stegen,de GER,GK,30-166,8,315,257,310,5,0,0,261,0,0,,0,0,194,855,545,0,0,0,0,0,199,199,100,0,Matches,6f51e382
+Robert Lewandowski,pl POL,FW,34-053,7,289,1,6,122,175,51,287,10,17,58.8,10,1,205,916,351,24,5,3,20,11,319,239,74.9,65,Matches,8d78e732
+Gavi Paez,es ESP,MF,18-069,6.4,396,5,32,233,163,22,385,3,9,33.3,4,0,309,1486,729,52,16,6,11,7,344,303,88.1,37,Matches,19cae58d
+Alejandro Balde,es ESP,DFFW,18-360,6.1,457,10,78,237,173,11,405,4,11,36.4,6,0,319,1372,642,18,11,5,6,3,331,316,95.5,11,Matches,5ccc9672
+Sergio Busquets,es ESP,MF,34-089,5.8,430,12,83,287,75,4,418,1,2,50,1,0,269,914,428,18,5,0,4,5,303,295,97.4,12,Matches,5ab0ea87
+Pedri,es ESP,MF,19-322,5.8,427,6,40,263,163,13,413,7,10,70,7,0,339,1935,1118,64,21,1,4,5,365,340,93.2,18,Matches,0d9b2d31
+Ronald Araújo,uy URU,DF,23-220,5.7,384,32,147,263,14,6,359,0,0,,0,0,261,2065,1534,32,0,0,3,2,290,282,97.2,2,Matches,2bef2bca
+Ousmane Dembélé,fr FRA,FW,25-151,5.6,385,1,12,135,273,39,357,9,25,36,9,0,300,2058,1414,77,23,23,7,9,362,312,86.2,37,Matches,b19db005
+Raphinha,br BRA,FW,25-303,4.7,358,3,13,96,267,51,316,10,22,45.5,10,1,249,1312,868,60,13,23,9,7,281,251,89.3,46,Matches,3423f250
+Eric García,es ESP,DF,21-277,4.3,322,29,146,181,19,3,310,0,1,0,0,0,217,1228,774,20,7,0,0,1,230,229,99.6,1,Matches,2bed3eab
+Frenkie de Jong,nl NED,MF,25-154,4.2,347,5,52,209,115,13,339,2,3,66.7,3,0,239,1615,1091,43,13,3,5,6,293,275,93.9,15,Matches,1bacc518
+Jordi Alba,es ESP,DF,33-206,3.2,353,9,70,208,93,7,309,0,2,0,0,0,245,942,494,25,4,1,0,1,261,250,95.8,6,Matches,4.60E+197
+Jules Koundé,fr FRA,DF,23-335,3,211,11,59,113,62,9,187,1,2,50,1,0,139,863,633,22,10,1,3,1,163,154,94.5,7,Matches,4d1666ff
+Gerard Piqué,es ESP,DF,35-253,3,316,42,119,216,9,4,307,1,1,100,1,0,235,1590,1032,37,1,0,0,0,253,248,98,0,Matches,adfc9123
+Ferrán Torres,es ESP,FWMF,22-226,2.8,150,3,10,62,88,19,148,5,12,41.7,5,0,126,483,270,16,5,6,7,10,144,126,87.5,28,Matches,9e1035f8
+Andreas Christensen,dk DEN,DF,26-186,2.7,264,27,114,160,5,1,261,0,0,,0,0,207,1242,630,16,4,0,0,0,223,223,100,1,Matches,1cb49278
+Franck Kessié,ci CIV,MF,25-298,1.7,94,5,13,59,29,7,94,0,1,0,0,0,70,290,133,3,1,0,3,2,95,81,85.3,11,Matches,05e19d6a
+Memphis Depay,nl NED,FW,28-242,1.3,87,0,5,28,57,12,81,4,8,50,5,0,60,230,113,6,1,2,8,2,87,72,82.8,23,Matches,8f696594
+Ansu Fati,es ESP,FW,19-347,2.8,175,5,19,54,114,28,173,6,13,46.2,7,1,126,579,291,19,5,4,5,12,151,127,84.1,26,Matches,0ba976e4
+Héctor Bellerín,es ESP,DF,27-208,1.4,90,1,14,42,40,3,78,1,2,50,1,0,54,254,151,6,3,1,0,1,61,57,93.4,4,Matches,f874dd44
+Marcos Alonso,es ESP,DF,31-289,1.1,90,8,31,60,4,0,87,0,0,,0,0,62,349,153,6,0,0,0,0,67,66,98.5,0,Matches,f4290206
+Sergi Roberto,es ESP,DF,30-248,1.4,134,8,29,64,49,4,120,0,1,0,0,0,86,324,202,8,5,0,1,1,91,89,97.8,5,Matches,335fa267
+Pierre-Emerick Aubameyang,ga GAB,DF,33-117,0.1,4,0,1,2,1,1,4,0,0,,0,0,2,5,1,0,0,0,0,0,2,2,100,0,Matches,d5dd5f1f
+Squad Total,,,26.2,8,6078,480,1403,3099,1988,308,5699,64,142,45.1,70,3,4313,22907,13597,572,153,79,96,86,4915,4536,92.3,355,,-9999
+Opponent Total,,,28.1,8,3620,635,1597,1513,705,115,3246,51,98,52,57,6,1988,9697,4723,174,56,22,112,77,2468,2017,81.7,133,,-9999
